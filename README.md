@@ -1,3 +1,3 @@
 Bu dəyişiklik feature-1 branch-ında edilib.
 Update from GitHub web
-Master budaginda deyisiklik
+Bonus budaginda ferqli deyisiklik
