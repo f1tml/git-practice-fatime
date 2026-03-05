@@ -1,0 +1,3 @@
+Bu, Git & GitHub tapşırığı üçün yaradılmış qeyd faylıdır.
+Bu fayl feature-2 branch-ı üzərində yaradılıb.
+Git əmrlərini öyrənmək gələcək layihələr üçün çox önəmlidir.
