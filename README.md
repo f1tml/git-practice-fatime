@@ -1,0 +1,1 @@
+Bu dəyişiklik feature-1 branch-ında edilib.
